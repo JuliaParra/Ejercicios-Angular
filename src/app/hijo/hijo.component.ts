@@ -9,10 +9,14 @@ import { Component } from '@angular/core';
 })
 export class HijoComponent {
  private titulo = 'titulo componente hijo';
-
- get mostrartitulo(){
+//Getter de typescript
+ get mostrarTitulo(){
   return this.titulo
 
 
  }
+
+ getTitulo(){ 
+  return this.titulo;
+}
 }
