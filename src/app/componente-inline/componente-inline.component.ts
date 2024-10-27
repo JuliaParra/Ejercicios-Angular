@@ -3,14 +3,19 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-componente-inline',
   standalone: true,
-  imports: [],
+
   template: `
+  <h1>{{tituloComponenteInline}}</h1>
     <p>
-      componente-inline works!
+      Aprende Angular!!
     </p>
   `,
-  styles: ``
+  styles: `
+  h1{
+    color:blue;
+    font-size:36px}
+    p{font-size:19px}`
 })
 export class ComponenteInlineComponent {
-
+  tituloComponenteInline = 'Componente Inline'
 }
