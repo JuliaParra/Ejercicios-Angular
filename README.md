@@ -1,3 +1,26 @@
+
+# Description
+
+This Angular course will teach you all the basic aspects of modules, directives, components, data binding, routing, HTTP access, and much more! In each section, we will create a real project. Through each example, we will showcase the features that Angular offers and how to apply them to real-world projects.
+
+Specifically, you will learn:
+
+Angular Architecture
+TypeScript for writing applications with Angular
+Directives and Components
+How Data Binding Works
+All about Routing and Navigation Handling
+What Pipes are and how to use them
+How to access web services (e.g., RESTful servers)
+Dependency Injection and how to use it
+Creating and using modules in Angular
+Optimizing Angular applications for production
+Connecting to Firebase and Firestore
+Deploying a real-world application to the Internet
+
+
+
+
 # AppAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
